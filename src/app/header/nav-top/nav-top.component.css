@@ -1,0 +1,24 @@
+.navTop_container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #8264ef;
+  height: 2rem;
+}
+.telefono{
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+i{
+  color: white;
+  margin: 0.5rem;
+}
+
+.rrss{
+  height: auto;
+  width: 8rem;
+  display: flex;
+  justify-content: space-evenly;
+}
+
